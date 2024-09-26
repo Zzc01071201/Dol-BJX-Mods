@@ -1,3 +1,9 @@
+![jeans](https://github.com/user-attachments/assets/2a9c39d9-297e-46bb-85ea-781998e3b5e2)
+![heart_choker](https://github.com/user-attachments/assets/be9b5f23-cc93-4620-afb4-5195b9a162e7)
+![heart_sunglasses_acc](https://github.com/user-attachments/assets/bbfe3333-9077-4569-b318-19e76b3eae20)
+![heart_sunglasses](https://github.com/user-attachments/assets/37a6c7c8-8a88-46e8-9cd8-54837a1841fe)
+![hairpin](https://github.com/user-attachments/assets/6a9a3c83-8983-4586-9172-c719b3bf9520)
+![gym_shorts](https://github.com/user-attachments/assets/df438f22-9e91-4c6e-864e-938dacbea572)
 # dol衣服美化模组自动生成器
 由北极星制作的傻瓜版模组生成器，用于生成可供modloader加载的模组包，支持新增衣物及美化模组。
 
